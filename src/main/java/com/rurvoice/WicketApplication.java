@@ -1,7 +1,9 @@
-package com.rurvoice.demo;
+package com.rurvoice;
 
 import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.protocol.http.WebApplication;
+
+import com.rurvoice.demo.HomePage;
 
 /**
  * Application object for your web application.
