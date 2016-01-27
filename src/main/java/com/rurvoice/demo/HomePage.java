@@ -1,4 +1,4 @@
-package com.rurvoice;
+package com.rurvoice.demo;
 
 import org.apache.wicket.request.mapper.parameter.PageParameters;
 import org.apache.wicket.markup.html.basic.Label;

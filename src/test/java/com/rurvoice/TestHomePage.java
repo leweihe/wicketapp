@@ -4,6 +4,9 @@ import org.apache.wicket.util.tester.WicketTester;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.rurvoice.demo.HomePage;
+import com.rurvoice.demo.WicketApplication;
+
 /**
  * Simple test using the WicketTester
  */
