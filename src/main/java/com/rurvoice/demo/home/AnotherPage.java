@@ -1,4 +1,4 @@
-package com.rurvoice.demo;
+package com.rurvoice.demo.home;
 
 import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.markup.html.link.Link;
