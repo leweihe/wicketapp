@@ -23,7 +23,7 @@ public class WicketApplication extends WebApplication
 	}
 
 	/**
-	 * @see org. apache.wicket.Application#init()
+	 * @see org.apache.wicket.Application#init()
 	 */
 	@Override
 	public void init()
